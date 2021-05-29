@@ -1,1 +1,1 @@
-# alx-pre_course
+My Name is Ibok Hezekiah an aspiring full stack engineer
