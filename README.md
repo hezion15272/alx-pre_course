@@ -1,0 +1,1 @@
+This is the first directory of my project!. It feels good to utillize github
